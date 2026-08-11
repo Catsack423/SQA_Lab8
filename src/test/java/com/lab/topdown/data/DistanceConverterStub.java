@@ -7,7 +7,7 @@ public class DistanceConverterStub  extends DistanceConverter{
 	
     @Override
     public double convert(double distanceValue, String fromUnit, String toUnit) {
-        // TODO Auto-generated method stub
+       
         return 1000;
     }
 }

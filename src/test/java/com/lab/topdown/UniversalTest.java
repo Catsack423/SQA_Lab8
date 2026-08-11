@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
 
 import com.lab.DistanceConverter;
 import com.lab.TemperatureConverter;
-import com.lab.UniversalConverter;
 import com.lab.WeightConverter;
 import com.lab.topdown.data.DistanceConverterStub;
 import com.lab.topdown.data.TemperatureConverterStub;

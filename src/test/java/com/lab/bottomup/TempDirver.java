@@ -2,7 +2,7 @@ package com.lab.bottomup;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import com.lab.DistanceConverter;
+
 import com.lab.TemperatureConverter;
 
 public class TempDirver {

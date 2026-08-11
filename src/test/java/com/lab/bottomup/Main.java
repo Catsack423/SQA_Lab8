@@ -25,7 +25,7 @@ public class Main {
         try {
             assertEquals(273.15, universal.convert(0, "Temperature", "C", "K"));
         } catch (Throwable e) {
-            // TODO: handle exception
+            
             System.err.println(e.getMessage());
         }
 
